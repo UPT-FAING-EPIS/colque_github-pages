@@ -1,4 +1,3 @@
 ---
-title: Welcome to my blog!
-Rodrigo Colque Quispe
+title: Rodrigo Colque Quispe
 ---
